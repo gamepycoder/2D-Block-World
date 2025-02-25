@@ -15,3 +15,52 @@ Mine/delete blocks.
 Fly or walk/run/sneak.
 
 Explore caves.
+
+Defult keys:
+------------
+
+NUMBER_KEYS = [K_1, K_2, K_3, K_4, K_5, K_6, K_7, K_8, K_9, K_0]
+
+JUMP = K_w
+LEFT = K_a
+RIGHT = K_d
+FAST = K_LSHIFT
+SLOW = K_s
+PAUSE = K_p
+
+CAM_LEFT = K_LEFT
+CAM_RIGHT = K_RIGHT
+CAM_UP = K_UP
+CAM_DOWN = K_DOWN
+
+CAMERA_TOGGLE = K_c
+TELEPORT = K_t
+CLONE = K_i
+SAVE = K_k
+FLY = K_SPACE
+
+EXIT = K_ESCAPE
+
+Technical:
+==========
+
+inputs.py:
+----------
+
+Defines key to variable mapping and a function to detect them.
+
+ui.py:
+----------
+
+Defines UI elements.
+
+Image, Text, Button, and Slider
+
+
+
+
+
+
+
+
+
