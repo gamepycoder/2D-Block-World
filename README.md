@@ -53,8 +53,8 @@ FLY = K_SPACE
 
 EXIT = K_ESCAPE
 
-Technical:
-==========
+Code description:
+=================
 
 inputs.py:
 ----------
