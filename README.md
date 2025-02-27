@@ -86,7 +86,7 @@ Defines a base entity class that has physics and a player class for the player t
 world.py:
 ---------
 
-Defines the chunk and entity handling and world generation with the World and Chunk_loader classes.
+Defines the chunk and entity handling and world generation with the World and Chunk_loader classes. The world of this project is infinite and the chunks are loaded slowly to allow for a better playing performance.
 
 game.py:
 --------
